@@ -58,7 +58,7 @@ Uma versão do clássico jogo da cobrinha (Snake) utilizando a plataforma BitDog
    - Clonar o repositório:
      ```bash
      git clone https://github.com/JotaPablo/snake.git
-     cd projetofinal
+     cd snake
      ```
    - Instalar o **Visual Studio Code** com as seguintes extensões:
      - **Raspberry Pi Pico SDK**
