@@ -3,7 +3,7 @@
 Uma versão do clássico jogo da cobrinha (Snake) utilizando a plataforma BitDogLab, com múltiplos periféricos integrados para movimentação, feedback visual e sonoro, e interface de usuário.
 
 ## Vídeo Demonstrativo
-[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/SEU_VIDEO_ID/hqdefault.jpg)](https://youtu.be/SEU_VIDEO_ID)
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/JN6O4QZe8Xc/hqdefault.jpg)](https://youtu.be/JN6O4QZe8Xc)
 
 ## Funcionalidades Principais
 
